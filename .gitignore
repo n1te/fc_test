@@ -1,0 +1,29 @@
+# jetbrains
+.idea
+
+# python
+__pycache__
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.cover
+.pytest_cache/
+
+# log
+*.log
+logs
+
+# other
+venv
+.DS_Store
+*.db
+
+# ruff
+.ruff_cache/
+
+# project
+catalog.json

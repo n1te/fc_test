@@ -1,0 +1,48 @@
+{
+    "articles": [
+        {
+            "article_number": "15189-02 15189-02 Aviation Nero Aviation",
+            "variations": [
+                {
+                    "ean": "8719245200954",
+                    "size_name": "36",
+                    "size": "European size 36"
+                },
+                {
+                    "ean": "8719245200992",
+                    "size_name": "40",
+                    "size": "European size 40"
+                }
+            ],
+            "price_sell": "139.95",
+            "material": "Aviation",
+            "price_buy_net_currency": "58.5 EUR",
+            "article_structure": "Pump"
+        },
+        {
+            "article_number": "4701013-00 4701013-00 Caipirinha Nero Caipirinha",
+            "variations": [
+                {
+                    "ean": "8719245192327",
+                    "size_name": "39",
+                    "size": "European size 39"
+                },
+                {
+                    "ean": "8719245192303",
+                    "size_name": "37",
+                    "size": "European size 37"
+                }
+            ],
+            "price_sell": "169.95",
+            "material": "Caipirinha",
+            "price_buy_net_currency": "71.0 EUR",
+            "article_structure": "Boot"
+        }
+    ],
+    "supplier": "Rupesco BV",
+    "brand": "Via Vai",
+    "target_area": "Woman Shoes",
+    "season": "Winter",
+    "collection": "Winter Collection 2017/2018",
+    "color": "Nero"
+}
